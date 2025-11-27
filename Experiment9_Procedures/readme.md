@@ -239,8 +239,7 @@ Multiplication table of 5:
 
 <img width="489" height="320" alt="image" src="https://github.com/user-attachments/assets/8a4f5854-d85d-4f7a-bfd9-f4fc0181b836" />
 
-**SEB Grades**
-<img width="1500" height="800" alt="image" src="https://github.com/user-attachments/assets/d7508d47-a253-4759-a05d-50dce322d488" />
+
 
 ## RESULT
 Thus, the PL/SQL programs using procedures and functions were written, compiled, and executed successfully.
