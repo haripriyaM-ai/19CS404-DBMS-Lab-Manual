@@ -312,6 +312,8 @@ VALUES
 
 <img width="1219" height="311" alt="image" src="https://github.com/user-attachments/assets/89eabdc0-bc43-4e6d-b1b9-bc9071f9e30c" />
 
+**SEB Grades**
+<img width="1500" height="800" alt="image" src="https://github.com/user-attachments/assets/d7508d47-a253-4759-a05d-50dce322d488" />
 
 
 ## RESULT
