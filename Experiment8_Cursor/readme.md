@@ -438,5 +438,5 @@ The program should update employee salaries and display a message, or it should 
 ---
 
 ## RESULT
-Thus, the program successfully executed and dis
+"Thus, the program successfully executed and the output was verified, demonstrating the correct use of explicit cursors.
 
