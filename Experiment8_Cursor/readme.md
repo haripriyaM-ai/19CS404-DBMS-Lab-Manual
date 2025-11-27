@@ -432,6 +432,11 @@ The program should update employee salaries and display a message, or it should 
 
 ---
 
+**SEB Grades**
+<img width="1500" height="800" alt="image" src="https://github.com/user-attachments/assets/d7508d47-a253-4759-a05d-50dce322d488" />
+
+---
+
 ## RESULT
 Thus, the program successfully executed and dis
 
