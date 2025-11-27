@@ -341,6 +341,9 @@ WHERE city IN ('New York')
 
 <img width="1215" height="533" alt="image" src="https://github.com/user-attachments/assets/6bf9b874-b51b-4d7a-9146-e940b00ae9f3" />
 
+**SEB Grades**
+<img width="1500" height="800" alt="image" src="https://github.com/user-attachments/assets/d7508d47-a253-4759-a05d-50dce322d488" />
+
 
 
 ## RESULT
