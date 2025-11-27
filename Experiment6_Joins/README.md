@@ -461,6 +461,9 @@ ON c.customer_id = o.customer_id;
 
 <img width="420" height="424" alt="image" src="https://github.com/user-attachments/assets/3c30097c-8a54-4857-ae03-aff578479ef8" />
 
+**SEB Grades**
+<img width="1500" height="800" alt="image" src="https://github.com/user-attachments/assets/d7508d47-a253-4759-a05d-50dce322d488" />
+
 
 
 ## RESULT
