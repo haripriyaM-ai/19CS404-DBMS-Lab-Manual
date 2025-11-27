@@ -295,6 +295,9 @@ HAVING MAX(salary) > 8000;
 
 <img width="618" height="391" alt="image" src="https://github.com/user-attachments/assets/612543bd-aef2-444e-99f2-a55d361be9ea" />
 
+**SEB Grades**
+<img width="1500" height="800" alt="image" src="https://github.com/user-attachments/assets/d7508d47-a253-4759-a05d-50dce322d488" />
+
 
 
 ## RESULT
