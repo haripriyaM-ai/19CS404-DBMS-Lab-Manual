@@ -228,8 +228,11 @@ Largest of three number is 15
 
 <img width="417" height="300" alt="image" src="https://github.com/user-attachments/assets/66ddfda2-8d71-4b7f-8e88-7dfea1f8ba38" />
 
+**SEB Grades**
+<img width="1500" height="800" alt="image" src="https://github.com/user-attachments/assets/d7508d47-a253-4759-a05d-50dce322d488" />
 
 
 ## RESULT
 Thus, the PL/SQL programs using variables, conditionals, and loops were executed successfully.
+
 
