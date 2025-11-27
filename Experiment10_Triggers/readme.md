@@ -200,11 +200,14 @@ VALUES (2, 'Anita', 2000);
 
 <img width="740" height="197" alt="image" src="https://github.com/user-attachments/assets/d0c2d3e1-8a3b-4e1f-8a48-47257deabca5" />
 
+---
+
 **SEB Grades**
 <img width="1500" height="800" alt="image" src="https://github.com/user-attachments/assets/d7508d47-a253-4759-a05d-50dce322d488" />
 
 
 ## RESULT
 Thus, the PL/SQL trigger programs were written and executed successfully.
+
 
 
