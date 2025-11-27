@@ -430,13 +430,10 @@ The program should update employee salaries and display a message, or it should 
 
 <img width="595" height="282" alt="image" src="https://github.com/user-attachments/assets/63042367-41ae-4576-95bb-41f6257f838c" />
 
----
 
-**SEB Grades**
-<img width="1500" height="800" alt="image" src="https://github.com/user-attachments/assets/d7508d47-a253-4759-a05d-50dce322d488" />
 
----
+
 
 ## RESULT
-"Thus, the program successfully executed and the output was verified, demonstrating the correct use of explicit cursors.
+Thus, the program successfully executed and the output was verified, demonstrating the correct use of explicit cursors.
 
