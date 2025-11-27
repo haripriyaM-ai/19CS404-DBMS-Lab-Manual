@@ -277,6 +277,9 @@ UPDATE Products SET sell_price = sell_price*1.15 WHERE quantity < 50 AND supplie
 
 <img width="1163" height="533" alt="image" src="https://github.com/user-attachments/assets/3601ec05-bd76-48b4-9b37-48e44a12ca8c" />
 
+**SEB Grades**
+<img width="1500" height="800" alt="image" src="https://github.com/user-attachments/assets/d7508d47-a253-4759-a05d-50dce322d488" />
+
 
 ## RESULT
 Thus, the SQL queries to implement DML commands have been executed successfully.
